@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 'time_calculous' library files
+time_calculous/
+*.c
